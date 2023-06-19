@@ -83,21 +83,23 @@ async function get() {
 ```ts
 {
   tags: [
-    'Feel Good Quotes',
-    'Pretty Quotes',
-    'Cute Quotes',
-    'Good Qoutes',
-    'Good News Quotes',
-    'Simple Qoutes',
-    'Cute Short Quotes',
     'Motivacional Quotes',
-    'Words Quotes'
+    'Cute Quotes',
+    'Words Quotes',
+    'Best Quotes',
+    'Funny Quotes',
+    '2 Word Sayings',
+    'Motivational Short Quotes',
+    'Cute Short Quotes',
+    'Inspo Quotes'
   ],
   post: 'https://i.pinimg.com/originals/68/a8/58/68a85891ccbac21aba585d1fc42a7ec8.jpg',
+  description: "When you feel low and unhappy, you create exactly that life, full of unhappy feelings, and this can be an emotional block, preventing you from manifesting your dreams. So let's dive into the topic of how you can create your own happiness.",
+  title: 'Just Create Your Own Happiness',
   username: 'SheBeKrafty-Kelen┃Mental Health, Chronic Illness, Anxiety',
   followers: '1k',
   image: 'https://i.pinimg.com/75x75_RS/63/f0/ca/63f0ca7bb609c35149679b682b95d2eb.jpg',
-  url: 'https://www.pinterest.com/search/pins/?q=happiness'
+  comments: 45,
 }
 ```
 

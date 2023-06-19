@@ -1,15 +1,21 @@
 {
-  "name": "pinterestapi",
-  "version": "1.0.0",
-  "description": "",
+  "name": "@myno_21/pinterest-scraper",
+  "version": "1.0.4",
+  "description": "Lightweight & Easy to use pinterest scraper made with typescript.",
   "main": "./src/index.js",
   "type": "module",
   "repository": {
-    "url": ""
+    "url": "https://github.com/TrishCX/Pinterest-Scraper"
   },
   "scripts": {
     "watch": "tsc --watch"
   },
+  "publishConfig": {
+    "access": "public"
+  },
+  "files": [
+    "src"
+  ],
   "keywords": [
     "pinterest",
     "pinterestAPI",
@@ -19,7 +25,8 @@
     "npm",
     "node-pinterest",
     "github",
-    "pinterest-api"
+    "pinterest-api",
+    "api"
   ],
   "author": "Tristan",
   "license": "ISC",
